@@ -46,4 +46,14 @@ Skall utföras enligt TDD metodik.
   
   - Stöd för parenteser.
   
-  - Stöd för variabler, som kan anges i efterhand för en korrekt uträknin
+  - Stöd för variabler, som kan anges i efterhand för en korrekt uträkning
+
+## Rock paper scissor
+- Spel mot en dator motståndare
+- Tillåtna drag (stora bokstäver) : ROCK , PAPER, SCISSORS
+- Tillåtna svar : WIN, LOSE, DRAW
+- Starta ett nytt spel
+- Ange ett drag ROCK, PAPER eller SCISSORS och få svar WIN, LOSE, DRAW
+- Bäst av 3 Fortsätt spela fler omgångar och utse vinnar
+
+* TDD push historik på annat repo, dessa är slut resultaten *
